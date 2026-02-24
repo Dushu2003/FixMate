@@ -8,8 +8,9 @@ function MainSection() {
   return (
     <Stack.Group screenOptions={{ headerShown: false }}>
       <Stack.Screen name={Routes.Home} component={BottomTabs} />
-      <Stack.Screen name={Routes.Chat} component={BottomTabs} />
+      <Stack.Screen name={Routes.Booking} component={BottomTabs} />
       <Stack.Screen name={Routes.Profile} component={BottomTabs} />
+   
     </Stack.Group>
   );
 }

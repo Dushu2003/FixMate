@@ -7,4 +7,5 @@ export enum Routes {
   Home = 'Home',
   Profile = 'Profile',
   Chat = 'Chat',
+  Booking='Booking',
 }

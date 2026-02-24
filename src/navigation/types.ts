@@ -9,4 +9,5 @@ export type IStackParamsList = {
   [Routes.Home]: undefined;
   [Routes.Profile]: undefined;
   [Routes.Chat]: undefined;
+  [Routes.Booking]: undefined;
 };
